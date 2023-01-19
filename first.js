@@ -1,4 +1,2 @@
-console.log("hello world");
-console.log("first")
-
+console.log("hello world")
 console.log("hai semua");
